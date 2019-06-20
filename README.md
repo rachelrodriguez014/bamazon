@@ -8,7 +8,7 @@ I was able to get the general functionality of the manager page. The only proble
 
 I attempted to start the supervisor part of the project, but I ran out of time trying to complete it. 
 
-<img src="screenshots/bamazon_customer.png">
-<img src="screenshots/bamazon_manager1.png">
-<img src="screenshots/bamazon_manager2.png">
+<img src="screenshots/bamazon-customer.png">
+<img src="screenshots/bamazon-manager1.png">
+<img src="screenshots/bamazon-manager2.png">
 
