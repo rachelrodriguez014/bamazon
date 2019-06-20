@@ -8,7 +8,6 @@ I was able to get the general functionality of the manager page. The only proble
 
 I attempted to start the supervisor part of the project, but I ran out of time trying to complete it. 
 
-
-Juan Pimentel [8:49 PM]
-Amazon screenshot:
-  ![Welcome page Screenshot](screenshots/bamazon_mgr.png "Logo Title Text 1")
+![Screenshots](screenshots/bamazon_customer.png)
+![Screenshots](screenshots/bamazon_manager1.png)
+![Screenshots](screenshots/bamazon_manager2.png)
