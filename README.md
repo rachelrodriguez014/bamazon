@@ -8,8 +8,7 @@ I was able to get the general functionality of the manager page. The only proble
 
 I attempted to start the supervisor part of the project, but I ran out of time trying to complete it. 
 
-![Screenshots](screenshots/bamazon_customer.png)
+<img src="screenshots/bamazon_customer.png">
+<img src="screenshots/bamazon_manager1.png">
+<img src="screenshots/bamazon_manager2.png">
 
-![Screenshots](screenshots/bamazon_manager1.png)
-
-![Screenshots](screenshots/bamazon_manager2.png)
